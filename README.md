@@ -1,8 +1,8 @@
-<h1 align="center"><img src="https://github.com/HamzaZaidiX/HamzaZaidiX/assets/52501040/72ffa756-2cf7-42e0-b4f8-b3f5727c1b17" /></h1>
-<img src="https://visitcount.itsvg.in/api?id=HamzaZaidiX&icon=0&color=dark" alt="Visitors count" />
+<h1 align="center" width="full"><img alt="Coding" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/></h1>
+<img src="https://visitcount.itsvg.in/api?id=HamzaJZaidi&icon=0&color=dark" alt="Visitors count" />
 <h1 align="center" font_size="40"><i>Hi 👋, I'm Hamza Zaidi</i></h1>
 <h3 align="center"><i>A Multi-Talented Full-Stack Web Developer & Designer from <b>Pakistan</b></i> <img align="center" src="https://ssl.gstatic.com/onebox/media/sports/logos/-I9tpg9uetJjQNCh15jmKw_48x48.png" alt="Pakistan Flag" height="40" width="60" /></h3>
-<!-- <a href="https://hamza-zaidi-portfolio-shjz.vercel.app/" target="blank"><img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/></a> -->
+<!-- <a href="https://hamza-zaidi-portfolio-shjz.vercel.app/" target="blank"></a> -->
 
 - 🌱 I’m currently learning more about **Latest Tech in Web Dev, MERN Stack, Blockchain & other Courses etc.**
 
