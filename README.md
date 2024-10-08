@@ -10,7 +10,7 @@
 
 - 📝 You can check out my 👉 <a href="https://drive.google.com/file/d/100H9axbtDLJs0IjIk8OcuW-typtdNzqV/view?usp=sharing" target="_blank"><b>Resume</b></a>
 <a href="https://github.com/HamzaZaidiX" target="blank"><img align="right" width="200" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="Working on Laptop"/></a>
-- 💬 Ask me about `Html, CSS, Javascript, React, APIs, SEO, Python`.
+- 💬 Ask me about `Html, CSS, Javascript, React, APIs, SEO, Python and other web technologies`.
 
 - 📝 Sometimes when free I write Blogs on [**Hashnode**](https://shjz.hashnode.dev/) and [Dev](https://dev.to/shjz)
 
